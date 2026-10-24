@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytest
+httpx
+sqlalchemy
+psycopg[binary]
+python-dotenv
+pytest-cov
+google-genai
