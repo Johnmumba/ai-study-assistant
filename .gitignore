@@ -16,3 +16,6 @@ build/
 
 .vercel/
 coverage/
+
+# Nested Git repository backup
+frontend/.git-backup/
