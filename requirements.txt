@@ -7,3 +7,4 @@ psycopg[binary]
 python-dotenv
 pytest-cov
 google-genai
+email-validator
